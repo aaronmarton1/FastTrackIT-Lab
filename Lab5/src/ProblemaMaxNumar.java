@@ -21,7 +21,7 @@ public class ProblemaMaxNumar {
                 }
             }
             while(number != 0);
-serdtfhgjkhgjf
+
             if (currentMax != 0) {
                 System.out.println("currentMax is: " + currentMax);
             } else {
