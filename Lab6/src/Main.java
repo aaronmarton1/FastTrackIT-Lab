@@ -12,7 +12,7 @@ public class Main {
         do {
 
             // userul vede un meniu si alege ceva
-            //daca a ales iesire se termina
+            // daca a ales iesire se termina
             // daca a ales afisare se afiseaza
             // daca a ales stergere se sterge
 
